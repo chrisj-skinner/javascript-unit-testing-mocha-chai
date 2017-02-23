@@ -1,6 +1,6 @@
 ## Javascript unit testing with Mocha & Chai
 
-A [Treehouse Course](https://teamtreehouse.com/library/javascript-unit-testing) using [Mocha](http://mochajs.org/) & [Chai](http://chaijs.com/) to build a battleship game engine
+A [Treehouse Course](https://teamtreehouse.com/library/javascript-unit-testing) using [Mocha](http://mochajs.org/) & [Chai](http://chaijs.com/) to test and build a battleship game engine
 
 ### Outline of game engine testing
 
