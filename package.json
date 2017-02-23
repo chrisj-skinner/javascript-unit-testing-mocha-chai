@@ -1,0 +1,16 @@
+{
+  "name": "battleship-game",
+  "version": "1.0.0",
+  "description": "A reproduction of the classic game 'Battleship' using Mocah and Chai for unit testing in a BDD environment",
+  "main": "main_test.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "chrisskinner.co",
+  "license": "ISC"
+}
