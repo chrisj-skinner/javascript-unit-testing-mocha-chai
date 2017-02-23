@@ -12,7 +12,7 @@ A [Treehouse Course](https://teamtreehouse.com/library/javascript-unit-testing) 
 4. Position of multiple 
 5. Status as active or sunk
 
-#### 3 test functions have been declared within [ship_text.js]() so far.
+#### 3 test functions have been declared within [ship_text.js](https://github.com/chrisj-skinner/javascript-unit-testing-mocha-chai/blob/master/test/ship_test.js) so far.
 
 `checkForShip, function(){ ...`
 
@@ -32,4 +32,4 @@ A [Treehouse Course](https://teamtreehouse.com/library/javascript-unit-testing) 
 	Log damage if a ship is located at a given coordinate
 	Not log damage if a ship is located at a given coordinate
 
-`fireShot` combines both the `checkForShip` and `damageShip` function to reach the required output. See [ship_methods.js]() for more details.
+`fireShot` combines both the `checkForShip` and `damageShip` function to reach the required output. See [ship_methods.js](https://github.com/chrisj-skinner/javascript-unit-testing-mocha-chai/blob/master/game_logic/ship_methods.js) for more details.
