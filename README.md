@@ -32,4 +32,4 @@ A [Treehouse Course](https://teamtreehouse.com/library/javascript-unit-testing) 
 	Log damage if a ship is located at a given coordinate
 	Not log damage if a ship is located at a given coordinate
 
-
+`fireShot` combines both the `checkForShip` and `damageShip` function to reach the required output. See [ship_methods.js]() for more details.
