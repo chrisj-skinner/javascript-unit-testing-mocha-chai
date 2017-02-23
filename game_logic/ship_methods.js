@@ -2,7 +2,7 @@
 function checkForShip(player, coordinates) {
 
 	var shipPresent,
-		ship;
+		 ship;
 
 	for (var i = 0; i < player.ships.length; i++) {
 		
